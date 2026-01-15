@@ -4,7 +4,7 @@ setlocal
 REM DBeaver License Generator GUI Launcher for Windows
 
 REM 定义变量 jar_file
-set jar_file=dbeaver-agent-25.1-jar-with-dependencies.jar
+set jar_file=dbeaver-agent-25.3-SNAPSHOT-jar-with-dependencies.jar
 
 REM 获取脚本所在的目录并切换到该目录
 cd /d "%~dp0" || exit /b 1
